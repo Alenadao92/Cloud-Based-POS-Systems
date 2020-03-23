@@ -45,11 +45,11 @@ Healthcare
 Entertainment & Casinos 
 cloud based POS System for restaurant
 View detail: https://gigasource.io/pos-retail/
-###2. Lightspeed Cloud Based POS Systems For Restaurants
+### 2. Lightspeed Cloud Based POS Systems For Restaurants
 Lightspeed Restaurant helps you streamlines the hospitality experience for both venue managers and their customers. The POS solution helps manage your stuff, serve customers in time, track inventory, etc
 
  
-####Features
+#### Features
 Custom floor plans
 Multiple menu and modifier management
 Timed events
@@ -69,23 +69,23 @@ Offer single seat checkout to group orders
 Add tip on the spot or later once you have time
 Open tabs and place orders on account
 Set tip redistribution for the team
-####Pricing & Other Information
+#### Pricing & Other Information
 Location: USA
 Founded: 2012
 Free Trial
 $69/mo if billed monthly
 Additional registers +$34/mo
-####Perfect for:
+#### Perfect for:
 Quick service
 Cafe/Bakery
 Bar/Nightclub
 Full services
 lightspeed cloud based pos system for restaurants
 View Details: https://www.lightspeedhq.com/pos/restaurant/
-###3. Cloud based POS systems for restaurants by Shopkeep
+### 3. Cloud based POS systems for restaurants by Shopkeep
 ShopKeep, founded in 2008, is a cloud-based POS system for iPads designed specifically for restaurants and retailers. It allow business owners to customize menus, track inventory, manage employees, market to customers and analyze data
 
-####Features
+#### Features
 Front & Back of House
 Tableside Ordering
 Mobile Business Insights
@@ -98,11 +98,11 @@ Integrated Payment Processing
 Integrated Accounting
 Online Ordering System
 Multi-Location Management
-####Pricing & Other Infomation
+#### Pricing & Other Infomation
 Pricing: not given
 Founded: 2008
 Location: USA
-####Perfect For
+#### Perfect For
 Fast-Casual Restaurants
 Bar & Nightclub POS 
 shopekeep cloud based pos for restaurant
