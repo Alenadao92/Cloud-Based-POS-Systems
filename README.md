@@ -5,13 +5,13 @@ In this post, we will show you the list of 3 best cloud-based POS for the restau
 
 These solutions help you customize menus, track inventory, manage employees, market to customers and analyze data.
 
-##1. Gigasource POS Software For Restaurant
-##2. Lightspeed POS for Restaurant
-##3. POS Software by Shopkeep
-###1. Gigasource POS Software Systems for Restaurant
+## 1. Gigasource POS Software For Restaurant
+## 2. Lightspeed POS for Restaurant
+## 3. POS Software by Shopkeep
+### 1. Gigasource POS Software Systems for Restaurant
 Gigasource POS Restaurant is a highly advanced POS system that is easy to use. The POS system for restaurant allows business owners to customize menus, track inventory, manage employees, market to customers and analyze data.
 
-####Features
+#### Features
 [Trending]Paying Via Mobile Wallet
 [Trending]Ipad & Tablet POS
 [Trending]Mobile Apps
@@ -27,11 +27,11 @@ Restaurant Inventory Management
 Best-in-class Report & Analytics
 Fully-featured offline mode
 Automatic syncs and backups
-####Pricing and other information
+#### Pricing and other information
 Price: 30 Free Trial 
 Based in German
 300-500 employees
-####Perfect for:
+#### Perfect for:
 Restaurant
 Hospitality
 Fast food chains
@@ -44,7 +44,7 @@ Bakeries
 Healthcare
 Entertainment & Casinos 
 cloud based POS System for restaurant
-Click here
+View detail: https://gigasource.io/pos-retail/
 ###2. Lightspeed Cloud Based POS Systems For Restaurants
 Lightspeed Restaurant helps you streamlines the hospitality experience for both venue managers and their customers. The POS solution helps manage your stuff, serve customers in time, track inventory, etc
 
@@ -81,7 +81,7 @@ Cafe/Bakery
 Bar/Nightclub
 Full services
 lightspeed cloud based pos system for restaurants
-Click here
+View Details: https://www.lightspeedhq.com/pos/restaurant/
 ###3. Cloud based POS systems for restaurants by Shopkeep
 ShopKeep, founded in 2008, is a cloud-based POS system for iPads designed specifically for restaurants and retailers. It allow business owners to customize menus, track inventory, manage employees, market to customers and analyze data
 
@@ -106,5 +106,5 @@ Location: USA
 Fast-Casual Restaurants
 Bar & Nightclub POS 
 shopekeep cloud based pos for restaurant
-Click here
+View details: https://www.shopkeep.com/business-types/restaurant-pos
 People also search for keyword: cloud based pos for restaurants, cloud based pos systems for restaurants, cloud pos for restaurants, best cloud based pos systems for restaurants, best cloud based pos for restaurants, cloud based pos software for restaurants
