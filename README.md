@@ -1,4 +1,4 @@
-# Cloud Based POS System
+# Cloud Based POS System For Restaurant
 Are you looking for a cloud-based POS systems for restaurants?
 
 In this post, we will show you the list of 3 best cloud-based POS for the restaurant. 
@@ -108,3 +108,20 @@ Bar & Nightclub POS
 shopekeep cloud based pos for restaurant
 View details: https://www.shopkeep.com/business-types/restaurant-pos
 People also search for keyword: cloud based pos for restaurants, cloud based pos systems for restaurants, cloud pos for restaurants, best cloud based pos systems for restaurants, best cloud based pos for restaurants, cloud based pos software for restaurants
+
+## Fast Custom Solution
+If You’re Looking For Software Tailored Your Own Business. We’ll Get You There Faster At A Better Price
+Try It Free: https://gigasource.io/face-attendance/
+
+
+## Free Software On Github
+1. [Cloud based Digital Signage Software](https://gigasource.io/cloud-signage/)
+2. [Facial Recognition Attendance System](https://gigasource.io/face-attendance/)
+3. [POS For Restaurant](https://gigasource.io/pos-restaurant/)
+4. [POS For Retail](https://gigasource.io/pos-retail/)
+5. [Face Recognition In Casino](https://gigasource.io/facial-recognition-in-casinos/)
+6. [Food Online Ordering System](https://gigasource.io/food-online-ordering/)
+7. [Facial Recognition In School](https://gigasource.io/facial-recognition-in-school/)
+8. [Facial Recognition In Airport](https://gigasource.io/biometric-facial-recognition-in-airports/)
+9. [Facial Recognition In Retail](https://gigasource.io/facial-recognition-in-retail-stores/)
+10. [Face Recognition Software Company](https://gigasource.io/face-recognition-software-company/)
