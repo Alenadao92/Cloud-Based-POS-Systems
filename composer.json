@@ -1,5 +1,5 @@
 {
-  "name": "gigasource/pos-restaurant",
+  "name": "gigasource/pos-software",
   "description": "Face Attendance",
   "require": {
     "gigasource/module-core": "^1.4.5"
@@ -20,7 +20,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Gigasource\\posrestaurant\\": ""
+      "Gigasource\\possoftware\\": ""
     }
   }
 }
